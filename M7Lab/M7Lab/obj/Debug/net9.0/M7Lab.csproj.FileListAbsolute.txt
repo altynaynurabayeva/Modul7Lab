@@ -1,0 +1,14 @@
+/Users/admin/Desktop/M7Lab/M7Lab/bin/Debug/net9.0/M7Lab
+/Users/admin/Desktop/M7Lab/M7Lab/bin/Debug/net9.0/M7Lab.deps.json
+/Users/admin/Desktop/M7Lab/M7Lab/bin/Debug/net9.0/M7Lab.runtimeconfig.json
+/Users/admin/Desktop/M7Lab/M7Lab/bin/Debug/net9.0/M7Lab.dll
+/Users/admin/Desktop/M7Lab/M7Lab/bin/Debug/net9.0/M7Lab.pdb
+/Users/admin/Desktop/M7Lab/M7Lab/obj/Debug/net9.0/M7Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/M7Lab/M7Lab/obj/Debug/net9.0/M7Lab.AssemblyInfoInputs.cache
+/Users/admin/Desktop/M7Lab/M7Lab/obj/Debug/net9.0/M7Lab.AssemblyInfo.cs
+/Users/admin/Desktop/M7Lab/M7Lab/obj/Debug/net9.0/M7Lab.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/M7Lab/M7Lab/obj/Debug/net9.0/M7Lab.dll
+/Users/admin/Desktop/M7Lab/M7Lab/obj/Debug/net9.0/refint/M7Lab.dll
+/Users/admin/Desktop/M7Lab/M7Lab/obj/Debug/net9.0/M7Lab.pdb
+/Users/admin/Desktop/M7Lab/M7Lab/obj/Debug/net9.0/M7Lab.genruntimeconfig.cache
+/Users/admin/Desktop/M7Lab/M7Lab/obj/Debug/net9.0/ref/M7Lab.dll
